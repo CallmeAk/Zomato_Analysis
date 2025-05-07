@@ -1,0 +1,76 @@
+Total Restaurants: 9551
+Average Rating: 2.67
+Average Cost for Two: 1199.20
+
+Table Booking:
+table_booking
+False    8392
+True     1158
+Name: count, dtype: int64
+
+Online Delivery:
+online_delivery
+False    7099
+True     2451
+Name: count, dtype: int64
+
+Delivering Now:
+delivering_now
+False    9516
+True       34
+Name: count, dtype: int64
+
+Rating Distribution:
+rating
+0.0    2148
+1.8       1
+1.9       2
+2.0       7
+2.1      15
+2.2      27
+2.3      47
+2.4      87
+2.5     110
+2.6     191
+2.7     250
+2.8     315
+2.9     381
+3.0     468
+3.1     519
+3.2     522
+3.3     483
+3.4     498
+3.5     480
+3.6     458
+3.7     427
+3.8     400
+3.9     335
+4.0     266
+4.1     274
+4.2     221
+4.3     174
+4.4     144
+4.5      95
+4.6      78
+4.7      42
+4.8      25
+4.9      61
+Name: count, dtype: int64
+
+Top 5 Countries:
+Country Name
+India             8652
+United States      434
+United Kingdom      80
+Brazil              60
+UAE                 60
+Name: count, dtype: int64
+
+Top 5 Cities:
+City
+New Delhi    5473
+Gurgaon      1118
+Noida        1080
+Faridabad     251
+Ghaziabad      25
+Name: count, dtype: int64

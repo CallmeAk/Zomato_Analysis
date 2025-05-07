@@ -1,0 +1,33 @@
+Day 3 Analysis Summary
+Total Restaurants: 9551
+
+Top 10 Countries by Average Rating:
+Country Name
+Phillipines       4.468182
+Turkey            4.300000
+Indonesia         4.295238
+New Zealand       4.262500
+UAE               4.233333
+South Africa      4.210000
+United Kingdom    4.087500
+Qatar             4.060000
+United States     4.004378
+Sri Lanka         3.870000
+Name: rating, dtype: float64
+
+T-Test: Rating by Online Delivery
+T-Statistic: nan, P-Value: nan
+
+Cluster Counts:
+Cluster
+0    7388
+2    2148
+1      15
+Name: count, dtype: int64
+
+Cluster Characteristics:
+           rating   cost_for_two
+Cluster                         
+0        3.438089     747.499459
+1        4.393333  346666.666667
+2        0.000000     340.337523
